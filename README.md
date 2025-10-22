@@ -22,7 +22,7 @@ This project is a simple PHP + MySQL web application that allows you to:
 ![Users Table Screenshot](https://github.com/Tloww/DatabaseTask/blob/main/Screenshot%202025-10-23%20015213.png)
 
 ### Example with Data  
-![Users with Data Screenshot](./8b41dc7d-7592-483e-b01f-9099c52bc82f.png)
+![Users with Data Screenshot](https://github.com/Tloww/DatabaseTask/blob/main/Screenshot%202025-10-23%20020549.png)
 
 ---
 
